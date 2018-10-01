@@ -5,4 +5,6 @@ You can grab the current version from the "release" tab on top of the page, it c
 https://github.com/FIX94/gameboy-audio-dumper  
 I did test it on various devices and it works perfect on a gameboy color, a gameboy advance sp and a gameboy player.  
 The only device it did not work on was the original gameboy which makes sense as those registers are in the gameboy color range of extra registers, however the sound test aspect still works great on it, there are just no visual updates, the volume bars are always full on it.  
-To learn how to compile this project you can just read the technical details on my other repository I linked before, it is based on the sender of that project.  
+Also I dont know how many emulators actually support those unofficial registers, it is supported at least in my own emulator:  
+https://github.com/FIX94/fixGB  
+To learn how to compile this project you can just read the technical details on my audio dumper repository I linked before, it is based on the sender of that project.  
